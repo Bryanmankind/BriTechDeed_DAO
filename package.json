@@ -13,6 +13,7 @@
   "author": "makinde Oluwasegun",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
     "hardhat": "^2.22.2"
   },
   "devDependencies": {
