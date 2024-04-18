@@ -1,4 +1,4 @@
-**Smart Contract Project: Deed Management System**
+**Smart Contract Project: Deed DAO**
 
 This repository contains the code for a decentralized system built with Hardhat for managing deeds and tokens. The system incorporates NFTs, a Treasury Vault, and a DAO for governance and decision-making.
 
